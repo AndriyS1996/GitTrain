@@ -1,0 +1,2 @@
+# GitTrain
+just train git
